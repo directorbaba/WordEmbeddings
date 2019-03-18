@@ -20,3 +20,9 @@ Classify the data using supervised learning through fasttext.
 Once the model was trained, it got 98% of precision onto the test data.
 
 
+Now run input.py, take the input.
+
+I have clasified on the basis of 60:40, 60% weightage to maximum iterations and 40% weightage to the probability calculation.
+
+
+
