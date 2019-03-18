@@ -7,5 +7,3 @@ result= classifier.test('Test.csv')
 print(result.precision)
 print(result.recall)
 print(result.nexamples)
-
-
